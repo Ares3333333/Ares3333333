@@ -6,10 +6,13 @@
 
 - Website: [sharprod.com](https://sharprod.com/)
 - Open production brief tools: [production-brief-schema](https://github.com/Ares3333333/production-brief-schema)
+- Commercial production handoff and acceptance standard: [commercial-production-standard](https://github.com/Ares3333333/commercial-production-standard)
 - RU/EN production taxonomy dataset: [Hugging Face](https://huggingface.co/datasets/SHARProduction/production-brief-taxonomy)
+- Deliverables taxonomy and synthetic manifests: [GitHub](https://github.com/Ares3333333/production-deliverables-taxonomy) · [Hugging Face](https://huggingface.co/datasets/SHARProduction/production-deliverables-taxonomy)
 - Browser brief checker: [Cloudflare](https://production-brief-browser.bullolaya.workers.dev/)
 - Public read-only MCP: [mcp.sharprod.com/public](https://mcp.sharprod.com/public)
 - Availability monitor: [shar-public-monitor](https://github.com/Ares3333333/shar-public-monitor)
+- Public GEO program roadmap: [shar-production-public-roadmap](https://github.com/Ares3333333/shar-production-public-roadmap)
 
 Commercial enquiries and project discussion: [SHAR Production contacts](https://sharprod.com/contact.html).
 
