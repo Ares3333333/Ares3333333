@@ -7,6 +7,8 @@
 - Website: [sharprod.com](https://sharprod.com/)
 - Open production brief tools: [production-brief-schema](https://github.com/Ares3333333/production-brief-schema)
 - Commercial production handoff and acceptance standard: [commercial-production-standard](https://github.com/Ares3333333/commercial-production-standard)
+- Explainable shoot / CGI / AI / hybrid routing: [ai-cgi-routing](https://github.com/Ares3333333/ai-cgi-routing)
+- WebVTT and SRT structural preflight: [subtitle-delivery-checker](https://github.com/Ares3333333/subtitle-delivery-checker)
 - RU/EN production taxonomy dataset: [Hugging Face](https://huggingface.co/datasets/SHARProduction/production-brief-taxonomy)
 - Deliverables taxonomy and synthetic manifests: [GitHub](https://github.com/Ares3333333/production-deliverables-taxonomy) · [Hugging Face](https://huggingface.co/datasets/SHARProduction/production-deliverables-taxonomy)
 - Browser brief checker: [Cloudflare](https://production-brief-browser.bullolaya.workers.dev/)
